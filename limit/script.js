@@ -1,0 +1,1 @@
+function calc(){let v=+a.value||0;let limit=+b.value||0;res.innerText=v<=limit?'No Duty':'Duty Applies';}

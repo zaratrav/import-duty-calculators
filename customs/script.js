@@ -1,0 +1,1 @@
+function calc(){let v=+a.value||0;let f=+b.value||0;res.innerText='$'+(v*(f/100)).toFixed(2);}
